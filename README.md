@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexandre Marques 👋
 
-- 🔭 I’m currently working as Fullstack Software Enginner
-- 📊 I have worked in several industries, such as telecommunications, health, retail, energy and automotive
+- 💻 I’m currently working as Fullstack Software Enginner
+- 🔭 I have worked in several industries, such as telecommunications, health, retail, energy and automotive
 - 🌱 I’m constantly trying to learn new technologies
 
 ### Connect with me:
