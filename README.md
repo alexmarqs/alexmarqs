@@ -6,7 +6,7 @@
 
 ### Connect with me:
 [<img align="left" alt="alexmarqs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/alexlmarques)
-[<img align="left" alt="alexmarqs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/alexandre-marques-ba87a877)
+[<img align="left" alt="alexmarqs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alexandre-marques-ba87a877)
 
 <br />
 
