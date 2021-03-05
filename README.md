@@ -36,6 +36,10 @@
 
 <br />
 
+<details>
+  <summary>🎵 Currently listening on Spotify</summary> 
+  <img src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
+</details>
 
 <details>
   <summary>⚡ GitHub Stats</summary> 
