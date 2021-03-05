@@ -38,7 +38,7 @@
 
 <details>
   <summary>🎵 Currently listening on Spotify</summary> 
-  <img src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
+  <img alt="playing now" src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
 </details>
 
 <details>
