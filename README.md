@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandre Marques 👋
 
-- 💻 Fullstack Software Enginner @ [epilot gmbh](https://epilot.cloud/)
+- 💻 I'm a Fullstack Software Enginner working remotely @ Lisbon
 - 🔭 I have worked in several industries, such as telecommunications, health, retail, energy and automotive
 - 🌱 I’m constantly trying to learn new technologies
 
