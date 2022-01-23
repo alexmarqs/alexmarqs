@@ -11,6 +11,12 @@
 <a href="https://www.linkedin.com/in/alexandre-marques-ba87a877">
   <img align="left" alt="Alexandre Marques | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://github.com/alexmarqs">
+  <img align="left" alt="Alexandre Marques | Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+<a href="https://codesandbox.io/u/alexmarqs">
+  <img align="left" alt="Alexandre Marques | CodeSandbox" width="23px" src="https://brandeps.com/icon-download/C/Code-sandbox-square-icon-vector-01.svg" />
+</a>
 
 <br />
 
