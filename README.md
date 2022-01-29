@@ -12,7 +12,7 @@
   <img align="left" alt="Alexandre Marques | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://github.com/alexmarqs">
-  <img align="left" alt="Alexandre Marques | Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="Alexandre Marques | Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </a>
 <a href="https://codesandbox.io/u/alexmarqs">
   <img align="left" alt="Alexandre Marques | CodeSandbox" width="23px" src="https://brandeps.com/icon-download/C/Code-sandbox-square-icon-vector-01.svg" />
