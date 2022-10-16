@@ -5,13 +5,13 @@
 - 🌱 Never stop learning
 
 ### Connect with me:
-<a href="https://twitter.com/alexlmarques">
+<a href="https://links.alexandremarques.io/twitter">
   <img align="left" alt="Alexandre Marques | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/alexandre-marques-ba87a877">
+<a href="https://links.alexandremarques.io/linkedin">
   <img align="left" alt="Alexandre Marques | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://github.com/alexmarqs">
+<a href="https://links.alexandremarques.io/github">
   <img align="left" alt="Alexandre Marques | Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </a>
 <a href="https://codesandbox.io/u/alexmarqs">
