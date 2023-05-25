@@ -27,8 +27,3 @@
   <summary>🎵 Currently listening on Spotify</summary> 
   <img alt="playing now" src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
 </details>
-
-<details>
-  <summary>⚡ GitHub Stats</summary> 
-  <img align="left" alt="alexmarq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexmarqs&show_icons=true&hide_border=true" />
-</details>
