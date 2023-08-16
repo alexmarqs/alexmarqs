@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandre Marques 👋
 
-- 💻 Fullstack Software Engineer
+- 💻 Fullstack Software Engineer / Product Engineer
 - 🔭 Industries: Telecommunications, Health, Retail, Energy and Automotive
 - 🌱 Never stop learning
 
