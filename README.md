@@ -2,6 +2,7 @@
 
 - 💻 Fullstack Software Engineer / Product Engineer
 - 🔭 Industries: Telecommunications, Health, Retail, Energy and Automotive
+- 🧑‍💻 Open source
 - 🌱 Never stop learning
 
 [![Github][github-shield]][author-github]
