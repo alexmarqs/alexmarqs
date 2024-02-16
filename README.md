@@ -6,15 +6,15 @@
 - 🌱 Never stop learning
 
 [![Github][github-shield]][author-github]
-[![LinkedIn][linkedin-shield]][author-linkedin]
 [![X][x-shield]][author-x]
 [![Dev.to][devdotto-shield]][author-devdotto]
+[![LinkedIn][linkedin-shield]][author-linkedin]
+
 
 <details>
   <summary>🎵 Currently listening on Spotify</summary> 
   <img alt="playing now" src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
 </details>
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
 
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
