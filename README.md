@@ -21,7 +21,7 @@
 [x-shield]: https://img.shields.io/badge/X-000?style=for-the-badge&logo=x
 [devdotto-shield]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
 
-[author-linkedin]:https://www.linkedin.com/in/alexandre-marques-ba87a877
+[author-linkedin]:https://links.alexandremarques.io/linkedin
 [author-github]:https://links.alexandremarques.io/github
 [author-x]: https://links.alexandremarques.io/twitter
-[author-devdotto]: https://dev.to/alexmarqs
+[author-devdotto]: https://links.alexandremarques.io/dev-to
