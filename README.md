@@ -5,10 +5,12 @@
 - 🧑‍💻 Open source
 - 🌱 Never stop learning
 
+[![Website][website-shield]][author-website]
 [![Github][github-shield]][author-github]
 [![X][x-shield]][author-x]
 [![Dev.to][devdotto-shield]][author-devdotto]
 [![LinkedIn][linkedin-shield]][author-linkedin]
+
 
 
 <details>
@@ -16,6 +18,7 @@
   <img alt="playing now" src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
 </details>
 
+[website-shield]: https://img.shields.io/badge/website-F3F6F2?style=for-the-badge&logo=About.me&logoColor=black
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [x-shield]: https://img.shields.io/badge/X-000?style=for-the-badge&logo=x
@@ -25,3 +28,4 @@
 [author-github]:https://links.alexandremarques.io/github
 [author-x]: https://links.alexandremarques.io/twitter
 [author-devdotto]: https://links.alexandremarques.io/dev-to
+[author-website]: https://alexandremarques.io
