@@ -22,7 +22,7 @@
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [x-shield]: https://img.shields.io/badge/X-000?style=for-the-badge&logo=x
 [devdotto-shield]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
-[discord-shield]:  https://img.shields.io/badge/eyetech-grey?style=for-the-badge&logo=discord
+[discord-shield]:  https://img.shields.io/badge/eyetech__-grey?style=for-the-badge&logo=discord
 
 [author-linkedin]:https://www.linkedin.com/in/alexandre-marques-ba87a877
 [author-github]:https://github.com/alexmarqs
